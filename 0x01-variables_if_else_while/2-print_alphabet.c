@@ -10,7 +10,6 @@
 int main(void)
 {
 	char c;
-	c = 'a'
 
 	for (c = 'a' ; c <= 'z' ; c++)
 	{
